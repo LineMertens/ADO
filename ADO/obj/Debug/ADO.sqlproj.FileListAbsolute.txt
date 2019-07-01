@@ -1,0 +1,10 @@
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\bin\Debug\ADO.dacpac
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\bin\Debug\ADO.dll
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\bin\Debug\ADO.pdb
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\ADO.sqlprojAssemblyReference.cache
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\Model.xml
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\refactor.xml
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\postdeploy.sql
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\predeploy.sql
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\ADO.dll
+\\10.10.50.100\Share\Public\DotNet 2019\_Students\Line\ADOlesson\ADO\ADO\obj\Debug\ADO.pdb
